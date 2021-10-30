@@ -32,7 +32,7 @@ UI/API
 * UI: React.js
 * API: Node.js, Express.js
 # Heading Технологии разработки
-*Язык программирования
-*SQL, HTML, CSS, Javascript, Python
-*СУБД
-*PostgreSQL/ Python SQL alchemy
+*Язык программирования\\
+*SQL, HTML, CSS, Javascript, Python\\
+*СУБД\\
+*PostgreSQL/ Python SQL alchemy\\
