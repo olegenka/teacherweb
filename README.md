@@ -28,11 +28,11 @@ Student
 *Parent(кол-во: не ограничено) 
 *Student(кол-во: не ограничено) 
 *Admin  (кол-во: от 1): добавление/редактирование/удаление пользователей/учебных материалов/разделов.
-UI/API
-* UI: React.js
-* API: Node.js, Express.js
+UI/API  
+ UI: React.js  
+ API: Node.js, Express.js  
 # Heading Технологии разработки
-*Язык программирования\\
-*SQL, HTML, CSS, Javascript, Python\\
-*СУБД\\
-*PostgreSQL/ Python SQL alchemy\\
+Язык программирования  
+SQL, HTML, CSS, Javascript, Python  
+СУБД  
+PostgreSQL/ Python SQL alchemy  
